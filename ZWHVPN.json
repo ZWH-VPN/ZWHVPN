@@ -5,12 +5,19 @@
 {
          "name": "TH-001",
          "url": "https://raw.githubusercontent.com/ZWH-VPN/ZWHVPN/main/ZWH-001.ovpn"
+      },
+
+  
+{
+         "name": "TH-002",
+         "url": "https://raw.githubusercontent.com/ZWH-VPN/ZWHVPN/main/ZWH-002.ovpn"
       }
+    
 
 
 
    ],
-"message":"18 November 2023\n\n•Version:3\n\n•Add DTAC NoFree\n\n•Facebook : Zaw Win Htut\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"27 November 2023\n\n•Version:4\n\n•Add DTAC NoFree\n\n•Facebook : Zaw Win Htut\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"✅ZWH VIP✅" ,
-   "version": 3
+   "version": 4
 }
